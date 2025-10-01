@@ -15,7 +15,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 [![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,autocad&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode)](https://skillicons.dev)
@@ -23,12 +23,3 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 
 ## Contacto:
 <a href="mailto:fcristopher06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fcristopher06@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/AprendeIngenia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AprendeIngenia&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
