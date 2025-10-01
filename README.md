@@ -6,10 +6,6 @@
 
 <img width="1920" height="700" alt="Ingeniia  Banner" src="https://github.com/user-attachments/assets/e408c2da-7e6a-4c73-bb99-a4ae6d4e58a6" />
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzwHEOCbsZLjfELperJ6VeQ)](https://youtube.com/@AprendeIngenia?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzwHEOCbsZLjfELperJ6VeQ)](https://youtube.com/@AprendeIngenia?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/AprendeIngenia?style=social)](https://github.com/AprendeIngenia)
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión por Computadora, con amplia experiencia en el desarrollo de modelos de IA y soluciones integrales relacionadas. Mi pasión se refleja en mi canal de [YouTube](https://www.youtube.com/aprendeeingenia) donde he publicado más de 200 proyectos y tutoriales basados ​​en estas áreas. Puedes encontrar todos esos proyectos y modelos aquí en mi GitHub o también en mi página de [Hugging Face.](https://huggingface.co/AprendeIngenia)
