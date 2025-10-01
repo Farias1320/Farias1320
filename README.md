@@ -12,13 +12,13 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,arduino,cpp&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode&perline=6)](https://skillicons.dev)
 
 
 ## Contacto:
