@@ -20,12 +20,9 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 ### Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode)](https://skillicons.dev)
 
-### Otros:
-[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
 
 ## Contacto:
-<a href="mailto:aprende.ingenia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/santiagsanchezr"><img alt="LinkedIn" src="https://img.shields.io/twitter/follow/santiagsanchezr"></a>
+<a href="mailto:fcristopher06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fcristopher06@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
