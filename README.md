@@ -26,3 +26,12 @@ Soy estudiante de Ingienería en Tecnologías de la Información, me gusta Intel
 
 ## Contacto:
 <a href="mailto:fcristopher06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fcristopher06@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Farias1320">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Farias1320&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
