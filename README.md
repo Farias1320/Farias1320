@@ -5,7 +5,7 @@
 </p>
 z
 
-##"https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px 🙂 **Sobre mi**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>🙂 **Sobre mi**
 
 Soy estudiante de Ingienería en Tecnologías de la Información, me gusta Inteligencia Artificial, Robótica y Cyberseguridad. Mi pasión es que un futuro no muy lejano poder dedicarme a todas aquellas cosas que me gustan, que en algún momento soñe.
 
