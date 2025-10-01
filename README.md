@@ -21,7 +21,7 @@ Soy estudiante de Ingenería en Tecnologías de la Información, me gusta Inteli
 [![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode&perline=6)](https://skillicons.dev)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=discord,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,instagram&perline=6)](https://skillicons.dev)
 
 
 ## Contacto:
