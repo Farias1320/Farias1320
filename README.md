@@ -20,6 +20,9 @@ Soy estudiante de Ingenería en Tecnologías de la Información, me gusta Inteli
 ### Software y herramientas:
 [![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,flask,pycharm,vscode&perline=6)](https://skillicons.dev)
 
+### Otros:
+[![My Skills](https://skillicons.dev/icons?i=spotify,pr&perline=6)](https://skillicons.dev)
+
 
 ## Contacto:
 <a href="mailto:fcristopher06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fcristopher06@gmail.com-blue?style=flat-square&logo=gmail"></a>
