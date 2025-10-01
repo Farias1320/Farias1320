@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
-Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión por Computadora, con amplia experiencia en el desarrollo de modelos de IA y soluciones integrales relacionadas. Mi pasión se refleja en mi canal de  donde he publicado más de 200 proyectos y tutoriales basados ​​en estas áreas. Puedes encontrar todos esos proyectos y modelos aquí en mi GitHub o también en mi página de [Hugging Face.
+Soy estudiante de Ingenería en Tecnologías de la Información, me gusta Inteligencia Artificial, Robótica y Cyberseguridad. Mi pasión es que un futuro no muy lejano poder dedicarme a todas aquellas cosas que me gustan, que en algún momento soñe.
 
 ## Habilidades y lenguajes:
 
