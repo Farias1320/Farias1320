@@ -9,7 +9,7 @@
 Soy estudiante de Ingeniería en Tecnologías de la Información, me gusta Inteligencia Artificial, Robótica y Cyberseguridad. Mi pasión es que un futuro no muy lejano poder dedicarme a todas aquellas cosas que me gustan, que en algún momento soñe.
 
 <a href="https://open.spotify.com/user/31krr2o3rs3yub2h55d7su5ctoaa" target="_blank">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-your_spotify_username-1DB954?style=flat-square&logo=spotify">
+  <img alt="listening to nothing rn " src="https://img.shields.io/badge/Spotify-your_spotify_username-1DB954?style=flat-square&logo=spotify">
 </a>
 
 ## Habilidades y lenguajes:
